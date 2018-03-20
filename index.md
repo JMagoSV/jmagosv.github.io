@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Bienvenido a mi página
+
+Tu puedes usar los códigos fuentes que estan dentro de este sitio, compartirlo y distribuirlo libremente, siempre y cuando hagas referencia a mi autoría.
+Si lo usas para fines de lucro ponerse en contacto con mi persona para recibir autorización previo acuerdo comercial
 
 You can use the [editor on GitHub](https://github.com/JMagoSV/jmagosv.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -34,4 +37,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Puedes ponerte en contacto conmigo haciendo uso de mi perfil en [linkedin](https://www.linkedin.com/in/jmago
+/) or [escribiendo a mi correo](mailto:mauricio_gonzalez@outlook.com?Subject=Hola%20Desde%20GitHub!).
